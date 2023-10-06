@@ -1,0 +1,9 @@
+[
+    {
+      "modid": "${modId}",
+      "name": "${modName}",
+      "version": "${modVersion}",
+      "mcversion": "${minecraftVersion}",
+      "authorList": ["Randoom97"],
+    }
+]
